@@ -1,3 +1,10 @@
+logs/*
+minimize
+maximize
+iter
+eps
+alpha
+
 # Prerequisites
 *.d
 
